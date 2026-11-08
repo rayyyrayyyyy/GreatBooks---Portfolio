@@ -285,7 +285,7 @@ export default function App() {
           <div className="hero-bottom">
             <span>AN EXPLORATION OF LITERATURE & THE HUMAN EXPERIENCE</span>
             <span>
-              BA ENGLISH LITERATURE <span className="small-diamond" /> 2025—2026
+              BS INFORMATION TECHNOLOGY <span className="small-diamond" /> 2025—2026
             </span>
           </div>
         </section>
@@ -296,12 +296,12 @@ export default function App() {
               <div className="profile-top">
                 <span className="eyebrow">THE READER BEHIND THE PAGES</span>
                 <div className="portrait-ring">
-                  <img src="/images/emily.jpg" alt="Emily R. Santiago" />
+                  <img src="/images/profile.jpg" alt="John Ray M. Amaro" />
                 </div>
-                <h2>Emily R. Santiago</h2>
-                <p>BA English Literature</p>
+                <h2>John Ray M. Amaro</h2>
+                <p>BS Information Technology</p>
                 <span className="student-detail">
-                  5th Year <span>·</span> Section A1
+                  4th Year <span>·</span> Section Great Books 1454
                 </span>
                 <div className="profile-rule">
                   <span />
@@ -549,7 +549,7 @@ export default function App() {
           <Icon name="book" size={21} /> My Literary Journey<span>.</span>
         </a>
         <p>Thoughtfully read. Personally reflected. Always learning.</p>
-        <span>© 2026 EMILY R. SANTIAGO</span>
+        <span>© 2026 JOHN RAY M. AMARO</span>
       </footer>
       {selectedBook && (
         <AnalysisModal

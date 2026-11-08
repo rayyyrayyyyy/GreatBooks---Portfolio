@@ -175,3 +175,6 @@ logs/
 
 # Using pnpm (pnpm-lock.yaml) so Vercel picks one package manager
 package-lock.json
+
+# Original full-size photo (keep private; site uses public/images/profile.jpg)
+public/images/profile_Picture.JPG
