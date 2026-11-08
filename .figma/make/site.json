@@ -1,0 +1,10 @@
+{
+  "description": "A personal portfolio site that showcases creative work, skills, and experience, helping visitors explore projects and connect with the creator.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
